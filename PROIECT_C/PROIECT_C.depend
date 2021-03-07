@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1588425290 source:c:\users\user\desktop\c++\proiect_c\algorithm_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1588425290 source:c:\users\user\desktop\c++\proiect_c\algorithm_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1588425290 source:c:\users\user\desktop\c++\proiect_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_generator.h"
+	"algorithms.h"
+
+1588425290 c:\users\user\desktop\c++\proiect_c\test_generator.h
+
+1588425290 c:\users\user\desktop\c++\proiect_c\algorithms.h
+
+1588425290 source:c:\users\user\desktop\c++\proiect_c\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting_algorithms.h"
+
+1588425290 c:\users\user\desktop\c++\proiect_c\sorting_algorithms.h
+
+1588425290 source:c:\users\user\desktop\c++\proiect_c\test_generator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	"sorting_algorithms.h"
+	"test_generator.h"
+	<string.h>
+	<math.h>
+
+1588425290 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\algorithm_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1588425290 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\algorithm_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1588425290 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_generator.h"
+	"algorithms.h"
+
+1588425290 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\test_generator.h
+
+1588425290 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\algorithms.h
+
+1588425290 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting_algorithms.h"
+
+1588425290 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\sorting_algorithms.h
+
+1588425290 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\proiect_c\test_generator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	"sorting_algorithms.h"
+	"test_generator.h"
+	<string.h>
+	<math.h>
+
+1588760932 source:c:\users\user\desktop\p1\proiect_c\algorithm_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1588690188 source:c:\users\user\desktop\p1\proiect_c\algorithm_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1588755231 source:c:\users\user\desktop\p1\proiect_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algorithms.h"
+
+1588425290 c:\users\user\desktop\p1\proiect_c\algorithms.h
+
+1588760932 source:c:\users\asus\desktop\p1\proiect_c\algorithm_1.c
+	<stdio.h>
+	<stdlib.h>
+
+1588690188 source:c:\users\asus\desktop\p1\proiect_c\algorithm_2.c
+	<stdio.h>
+	<stdlib.h>
+
+1589106058 source:c:\users\asus\desktop\p1\proiect_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algorithms.h"
+
+1588425290 c:\users\asus\desktop\p1\proiect_c\algorithms.h
+

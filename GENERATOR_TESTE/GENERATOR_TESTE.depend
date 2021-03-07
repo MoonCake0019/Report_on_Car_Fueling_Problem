@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1588665213 source:c:\users\user\desktop\c++\generator_teste\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting_algorithms.h"
+
+1588666721 source:c:\users\user\desktop\c++\generator_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_generator.h"
+
+1588666666 source:c:\users\user\desktop\c++\generator_teste\utility.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588665213 c:\users\user\desktop\c++\generator_teste\sorting_algorithms.h
+
+1588666474 source:c:\users\user\desktop\c++\generator_teste\test_generator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"sorting_algorithms.h"
+
+1588664973 c:\users\user\desktop\c++\generator_teste\utility.h
+
+1588666474 c:\users\user\desktop\c++\generator_teste\test_generator.h
+
+1588665213 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting_algorithms.h"
+
+1588665213 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\sorting_algorithms.h
+
+1588667089 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\test_generator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"sorting_algorithms.h"
+
+1588664973 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\utility.h
+
+1588666666 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\utility.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588668547 source:c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_generator.h"
+
+1588666474 c:\users\user\desktop\proiectarea algoritmilor\proiect_tema\new folder\p1\generator_teste\test_generator.h
+
+1588665213 source:c:\users\user\desktop\p1\generator_teste\sorting_algorithms.c
+	<stdio.h>
+	<stdlib.h>
+	"sorting_algorithms.h"
+
+1588665213 c:\users\user\desktop\p1\generator_teste\sorting_algorithms.h
+
+1588758371 source:c:\users\user\desktop\p1\generator_teste\test_generator.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"sorting_algorithms.h"
+
+1588675761 c:\users\user\desktop\p1\generator_teste\utility.h
+
+1588758418 source:c:\users\user\desktop\p1\generator_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_generator.h"
+
+1588675377 c:\users\user\desktop\p1\generator_teste\test_generator.h
+
+1588675761 source:c:\users\user\desktop\p1\generator_teste\utility.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+
